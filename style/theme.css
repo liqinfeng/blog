@@ -1,0 +1,78 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif, lucida grande, lucida sans unicode, lucida, helvetica, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei;
+}
+.ui.text.container {
+    /*font-family: "Microsoft Yahei", "Helvetica Neue", Arial, Helvetica, sans-serif;*/
+    max-width: 1127px !important;
+}
+.ui.text.container p {
+    line-height: 27.132px;
+    font-size: 15.96px;
+    color: rgba(0, 0, 0, 0.87);
+}
+.ui.menu {
+    /*min-height: 56px;*/
+    /*font-size: 1.2rem;*/
+}
+
+.ui.menu .item img.logo {
+    margin-right: 1.5em;
+}
+
+.main.container {
+    margin-top: 7em;
+}
+
+.wireframe {
+    margin-top: 2em;
+}
+
+.ui.footer.segment {
+    margin: 2em 0em 0em;
+    padding: 2em 0em;
+}
+
+.ui.menu .active.item {
+    font-weight: 600;
+}
+
+.ui.vertical.stripe {
+    padding: 2em 0em;
+}
+
+.description p {
+    line-height: 28px;
+    color: #1a1a1a;
+    font-size: 16px;
+}
+
+.ui.teal.header {
+    font-size: 24px;
+}
+
+.ui.divided.items > .item {
+    border-top: 1px dashed rgba(0, 0, 0, 0.2);
+}
+
+.ui.items > .item > .content > .description {
+    font-size: 1rem;
+}
+.ui.very.relaxed {
+    padding-left: 12px;
+}
+.ui.card {
+    border: none;
+    box-shadow: none;
+    border-radius: 0px;
+}
+.ui.circular.image {
+    border: 5px solid #00B5AD;
+    border-radius: 300px;
+}
+.ui.icon.header .content {
+    padding-top: 40px;
+}
+.twelve.wide.column {
+    border-right: 1px dashed rgba(0, 0, 0, 0.1);
+}
